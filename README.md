@@ -19,7 +19,7 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 [<img src="http://sheistechie.com/images/IG-icon.png" width="50"/>][Instagram]
 [<img src="http://sheistechie.com/images/Dribbble-icon.png" width="50"/>][Dribbble]
 
-Write to me @ <ambika.shantappa@gmmail.com>
+Write to me @<ambika.shantappa@gmail.com>
 
 
 ## I'm human
