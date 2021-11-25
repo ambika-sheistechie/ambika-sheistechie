@@ -5,17 +5,17 @@
 [<img src="http://sheistechie.com/images/Webflow 20Logo.png"/>]
 
 ### I'm currently learing/exploring :
-- React, Gatsby, Redux
+- React, Gatsby, Redux, Contentful
 - Tailwind CSS
 - Squarespace
 
 
 ## Let's connect
-[<img src="http://sheistechie.com/images/LinkedIn-icon.png"/>][Website]
-[<img src="http://sheistechie.com/images/LinkedIn-icon.png"/>][LinkedIn]
-[<img src="http://sheistechie.com/images/IG-icon.png"/>][Instagram]
-[<img src="http://sheistechie.com/images/Dribbble-icon.png"/>][Dribbble]
-[<img src="http://sheistechie.com/images/Gmail-icon.png"/>][Gmail]
+[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="100"/>][Website]
+[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="100"/>][LinkedIn]
+[<img src="http://sheistechie.com/images/IG-icon.png" width="100"/>][Instagram]
+[<img src="http://sheistechie.com/images/Dribbble-icon.png" width="100"/>][Dribbble]
+[<img src="http://sheistechie.com/images/Gmail-icon.png" width="100"/>][Gmail]
 
 
 ###### I'm human
