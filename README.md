@@ -1,18 +1,12 @@
 # `<HELLOW/> 👋`!
 
-I'm Fullstack Web Developer with front-end specialization and mentor, I also design eye-pleasing web and app layouts [View my design skills here][Dribbble]
+I'm Fullstack Web Developer with front-end specialization and mentor, I also design eye-pleasing web and app layouts [View my design skills here][Dribbble] and [View my Portfolio here][Website]
 
 ## I'm currently learing/exploring
 - React, Gatsby, Redux, Contentful
 - Tailwind CSS
 - Squarespace
 
-## Tools of trade
-![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
-![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
-![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
-
-<span style="color: red;">text</span>
 
 ## Some of my works
 **[YOmarting][YOmarting]**<br/>
@@ -21,7 +15,6 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 
 
 ## Let's connect
-[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="50"/>][Website]
 [<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="50"/>][LinkedIn]
 [<img src="http://sheistechie.com/images/IG-icon.png" width="50"/>][Instagram]
 [<img src="http://sheistechie.com/images/Dribbble-icon.png" width="50"/>][Dribbble]
