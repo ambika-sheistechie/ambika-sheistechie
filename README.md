@@ -8,9 +8,9 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 - Squarespace
 
 ## Tools of trade
-![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
-![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
-![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
+![HTML](http://sheistechie.com/images/Webflow%20Logo.png=50)
+![HTML](http://sheistechie.com/images/Webflow%20Logo.png=50)
+![HTML](http://sheistechie.com/images/Webflow%20Logo.png=50)
 
 
 ## Some of my works
