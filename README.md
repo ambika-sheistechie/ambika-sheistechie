@@ -1,3 +1,3 @@
-# Hellow fellow Netizens!
+# <HELLOW/>!
 
 [Instagram] : 
