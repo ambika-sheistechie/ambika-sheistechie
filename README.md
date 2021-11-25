@@ -18,7 +18,7 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 [<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="50"/>][LinkedIn]
 [<img src="http://sheistechie.com/images/IG-icon.png" width="50"/>][Instagram]
 [<img src="http://sheistechie.com/images/Dribbble-icon.png" width="50"/>][Dribbble]
-[<img src="http://sheistechie.com/images/Gmail-icon.png" width="50"/>][Gmail]
+[<img src="http://sheistechie.com/images/Gmail-icon.png" width="50"/>][<ambika.shantappa@gmail.com>]
 
 
 ## I'm human
@@ -30,7 +30,6 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 [GitHub]: https://github.com/ambika-sheistechie
 [LinkedIn]: https://www.linkedin.com/in/ambika-webdesigneranddeveloper/
 [Dribbble]: https://dribbble.com/ambika_sheistechie
-[Gmail]: <ambika.shantappa@gmail.com>
 [YOmarting]: https://yomarting.com/
 [MilkinOats]: https://milkinoats.com/
 [Onbue]: https://onbue.com/
