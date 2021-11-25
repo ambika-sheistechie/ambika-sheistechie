@@ -2,25 +2,19 @@
 
 I'm Fullstack Web Developer with front-end specialization and mentor, I also design eye-pleasing web and app layouts [View my design skills here][Dribbble]
 
+## I'm currently learing/exploring
+- React, Gatsby, Redux, Contentful
+- Tailwind CSS
+- Squarespace
+
 ## Tools of trade
-<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
-<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
-<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
-<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
-<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
-<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
+![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
 
 
 ## Some of my works
 **[YOmarting][YOmarting]**<br/>
 **[Onbue][Onbue]**<br/>
 **[MilkinOats][MilkinOats]**<br/>
-
-
-## I'm currently learing/exploring
-- React, Gatsby, Redux, Contentful
-- Tailwind CSS
-- Squarespace
 
 
 ## Let's connect
