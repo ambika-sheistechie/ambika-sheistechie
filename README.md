@@ -11,11 +11,11 @@
 
 
 ## Let's connect
-[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="100"/>][Website]
-[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="100"/>][LinkedIn]
-[<img src="http://sheistechie.com/images/IG-icon.png" width="100"/>][Instagram]
-[<img src="http://sheistechie.com/images/Dribbble-icon.png" width="100"/>][Dribbble]
-[<img src="http://sheistechie.com/images/Gmail-icon.png" width="100"/>][Gmail]
+[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="50"/>][Website]
+[<img src="http://sheistechie.com/images/LinkedIn-icon.png" width="50"/>][LinkedIn]
+[<img src="http://sheistechie.com/images/IG-icon.png" width="50"/>][Instagram]
+[<img src="http://sheistechie.com/images/Dribbble-icon.png" width="50"/>][Dribbble]
+[<img src="http://sheistechie.com/images/Gmail-icon.png" width="50"/>][Gmail]
 
 
 ###### I'm human
