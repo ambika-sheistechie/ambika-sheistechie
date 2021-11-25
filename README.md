@@ -9,6 +9,8 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 
 ## Tools of trade
 ![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
+![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
+![HTML](http://sheistechie.com/images/Webflow%20Logo.png)
 
 
 ## Some of my works
@@ -34,7 +36,7 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 [GitHub]: https://github.com/ambika-sheistechie
 [LinkedIn]: https://www.linkedin.com/in/ambika-webdesigneranddeveloper/
 [Dribbble]: https://dribbble.com/ambika_sheistechie
-[Gmail]: mailto:ambika.shantappa@gmail.com
+[Gmail]: <ambika.shantappa@gmail.com>
 [YOmarting]: https://yomarting.com/
 [MilkinOats]: https://milkinoats.com/
 [Onbue]: https://onbue.com/
