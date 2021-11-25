@@ -1,8 +1,23 @@
 # `<HELLOW/> 👋`!
 
+I'm Fullstack Web Developer with front-end specialization, I also design eye-pleasing web and app layouts [View my design skills here][Dribbble]
 
 ## Tools of trade
-[<img src="http://sheistechie.com/images/Webflow 20Logo.png"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+[<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
+
+
+##Some of my works
+[YOmarting][YOmarting]
+[Onbue][Onbue]
+[MilkinOats][MilkinOats]
 
 ### I'm currently learing/exploring :
 - React, Gatsby, Redux, Contentful
@@ -18,8 +33,8 @@
 [<img src="http://sheistechie.com/images/Gmail-icon.png" width="50"/>][Gmail]
 
 
-###### I'm human
-When I'm not conversing with machines around me I 💃, discover asthetic rich fashion brands
+### I'm human
+When I'm not conversing with machines around me I 💃, discover aesthetic rich fashion brands
 
 [Instagram]: https://www.instagram.com/sheistechie
 [Website]: http://sheistechie.com/
@@ -27,3 +42,6 @@ When I'm not conversing with machines around me I 💃, discover asthetic rich f
 [LinkedIn]: https://www.linkedin.com/in/ambika-webdesigneranddeveloper/
 [Dribbble]: https://dribbble.com/ambika_sheistechie
 [Gmail]: mailto:ambika.shantappa@gmail.com
+[YOmarting]: https://yomarting.com/
+[MilkinOats]: https://milkinoats.com/
+[Onbue]: https://onbue.com/
