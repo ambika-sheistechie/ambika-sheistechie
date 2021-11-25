@@ -14,10 +14,14 @@ I'm Fullstack Web Developer with front-end specialization, I also design eye-ple
 [<img src="http://sheistechie.com/images/Webflow 20Logo.png" width="50"/>]
 
 
-##Some of my works
-[YOmarting][YOmarting]
-[Onbue][Onbue]
-[MilkinOats][MilkinOats]
+## Some of my works
+**[YOmarting][YOmarting]**<br/>
+**[Onbue][Onbue]**<br/>
+**[MilkinOats][MilkinOats]**<br/>
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ### I'm currently learing/exploring :
 - React, Gatsby, Redux, Contentful
