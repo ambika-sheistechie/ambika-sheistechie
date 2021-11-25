@@ -26,4 +26,4 @@ When I'm not conversing with machines around me I 💃, discover asthetic rich f
 [GitHub]: https://github.com/ambika-sheistechie
 [LinkedIn]: https://www.linkedin.com/in/ambika-webdesigneranddeveloper/
 [Dribbble]: https://dribbble.com/ambika_sheistechie
-[Gmail]: ambika.shantappa@gmail.com
+[Gmail]: mailto:ambika.shantappa@gmail.com
