@@ -3,12 +3,12 @@
 I'm Fullstack Web Developer with front-end specialization and mentor, I also design eye-pleasing web and app layouts [View my design skills here][Dribbble]
 
 ## Tools of trade
-[<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>]
-[<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>]
-[<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>]
-[<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>]
-[<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>]
-[<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>]
+<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
+<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
+<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
+<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
+<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
+<img src="http://sheistechie.com/images/Webflow%20Logo.png" width="50"/>
 
 
 ## Some of my works
@@ -17,7 +17,7 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 **[MilkinOats][MilkinOats]**<br/>
 
 
-### I'm currently learing/exploring
+## I'm currently learing/exploring
 - React, Gatsby, Redux, Contentful
 - Tailwind CSS
 - Squarespace
@@ -31,8 +31,9 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 [<img src="http://sheistechie.com/images/Gmail-icon.png" width="50"/>][Gmail]
 
 
-### I'm human
-When I'm not conversing with machines around me I 💃, discover aesthetic rich fashion brands and embrace spending time in nature, Watch brain taxing Christopher Nolan movies, also Sci-fi movies and shows
+## I'm human
+*When I'm not conversing with machines around me I 💃, discover aesthetic rich fashion brands, embrace spending time in nature, Watch brain taxing Christopher Nolan movies, also Sci-fi movies and shows*
+
 
 [Instagram]: https://www.instagram.com/sheistechie
 [Website]: http://sheistechie.com/
