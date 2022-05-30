@@ -23,7 +23,7 @@ Write to me @<ambika.shantappa@gmail.com>
 
 
 ## I'm human
-*When I'm not conversing with machines around me I 💃, discover aesthetic rich fashion brands, embrace spending time in nature, Watch brain taxing Christopher Nolan movies, also Sci-fi movies and shows*
+*When I'm not conversing with machines around me I 💃(dance), discover aesthetic rich fashion brands, embrace spending time in nature, Watch brain taxing Christopher Nolan movies, also Sci-fi movies and shows*
 
 
 [Instagram]: https://www.instagram.com/sheistechie
