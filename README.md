@@ -5,7 +5,6 @@ I'm Fullstack Web Developer with front-end specialization and mentor, I also des
 ## I'm currently learing/exploring
 - React, Gatsby, Redux, Contentful
 - Tailwind CSS
-- Squarespace
 
 
 ## Some of my works
